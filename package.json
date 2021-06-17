@@ -1,0 +1,28 @@
+{
+  "name": "parcel-react-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve ./app/index.html",
+    "build": "parcel build ./app/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laura-naccarato/parcel-react-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laura-naccarato/parcel-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/laura-naccarato/parcel-react-boilerplate#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.3.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
